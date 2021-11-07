@@ -1,0 +1,2 @@
+Dalam pembuatan aplikasi perpustakaan kami menggunakan software Android Studio
+dan untuk Desain UI kami menggunakan Adobe XD.
