@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -378,7 +377,3 @@
             memberikan output/keluaran berupa data mengenai
             admin, operator, data anggota, data buku,  dan data transaksi pada perpustakaan sekolah x.</li>
     </ul>
-    
-</body>
-</html>
-
